@@ -1,7 +1,7 @@
 # HKWJ Wajir
 
 
-**Wajir Airport** is an airport in Wajir County, [Kenya](country:kenya:home)
+**Wajir Airport** is an airport in Wajir County, [Kenya](https://eaip2.vatssa.com/kenya/)
 
 #### Aerodrome Data
 

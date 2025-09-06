@@ -1,7 +1,7 @@
 # HKMO Mombasa
 
 
-**Moi International Airport** (IATA: MBA, ICAO: HKMO) is an international airport in Mombasa, the second-largest city in [Kenya](country:kenya:home). In 2020, the airport was heralded as the "Best Airport in Africa" (with under 2 million passengers annually) by Airports Council International.
+**Moi International Airport** (IATA: MBA, ICAO: HKMO) is an international airport in Mombasa, the second-largest city in [Kenya](https://eaip2.vatssa.com/kenya/). In 2020, the airport was heralded as the "Best Airport in Africa" (with under 2 million passengers annually) by Airports Council International.
 
 Moi International Airport serves the city of Mombasa and surrounding communities. It lies approximately 425 kilometres, by air, southeast of [Jomo Kenyatta International Airport](Jomo Kenyatta International Airport) ( [HKJK](HKJK) ), the largest and busiest airport in the country. Mombasa Airport is operated by Kenya Airports Authority. It was named after former Kenyan President **Daniel arap Moi** during his tenure.
 

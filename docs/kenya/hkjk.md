@@ -1,7 +1,7 @@
 # HKJK Nairobi
 
 
-**Jomo Kenyatta International Airport** is an international airport in Nairobi, the capital of and largest city in [Kenya](country:kenya:home). The other three important international airports in [Kenya](country:kenya:home) include the [Kisumu International Airport](Kisumu International Airport), [Moi International Airport](Moi International Airport) and [Eldoret International Airport](Eldoret International Airport). 
+**Jomo Kenyatta International Airport** is an international airport in Nairobi, the capital of and largest city in [Kenya](https://eaip2.vatssa.com/kenya/). The other three important international airports in [Kenya](https://eaip2.vatssa.com/kenya/) include the [Kisumu International Airport](Kisumu International Airport), [Moi International Airport](Moi International Airport) and [Eldoret International Airport](Eldoret International Airport). 
 
 JKIA is located in the Embakasi suburb 18 kilometres (11 miles) southeast of Nairobi's central business district, the airport has scheduled flights to destinations in over 50 countries. Originally named Embakasi Airport, the airport's name was changed in 1978 to honour Jomo Kenyatta, Kenya's first president and prime minister.
 
