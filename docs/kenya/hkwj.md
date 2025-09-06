@@ -3,6 +3,10 @@
 
 **Wajir Airport** is an airport in Wajir County, [Kenya](https://eaip2.vatssa.com/kenya/)
 
+!!! warning ""
+
+    The information contained in this platform is for flight simulation purposes only and shall not be used, under any circumstances, for real world aviation.
+
 #### Aerodrome Data
 
 | ICAO | HKWJ |
@@ -45,14 +49,6 @@
 | --- | --- | --- | --- | --- |
 | Wajir CTR | D | HKWJ_TWR | GND - FL50 |  |
 | Nairobi FIR/UIR | A | HKNA_CTR | FL145 - UNL |  |
-
-
-
-
-!!! warning ""
-
-    The information contained in this platform is for flight simulation purposes only and shall not be used, under any circumstances, for real world aviation.
-
 
 ## Delivery
 
@@ -205,7 +201,7 @@ CALLSIGN, push-back approved, facing DIRECTION.
 
 
 #### HKJK & HKNW
-* HKJK Controllers, particularly Tower and Approach, should be mindful of simultaneous operations at HKJK and [HKNW](HKNW). In most circumstances, most aircraft taking off from HKNW will be taking off to the south, which can cause a conflict for inbound traffic landing on 06. 
+* HKJK Controllers, particularly Tower and Approach, should be mindful of simultaneous operations at HKJK and [HKNW](hknw.md). In most circumstances, most aircraft taking off from HKNW will be taking off to the south, which can cause a conflict for inbound traffic landing on 06. 
 * In the event of HKNW traffic, releases from HKJK should be coordinated with Approach, if online, however in most circumstances, HKJK traffic will be given priority.
 
 
