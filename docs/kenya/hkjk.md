@@ -478,7 +478,7 @@ Pilots taking part in events that depart from or arrive to HKJK should make them
 	* **24: Taxi out via M or H, taxi in via J or K**
 
 === "Departure"
-	##### Departure Briefing
+	### Departure Briefing
 	* Nairobi has 5 terminals, Terminals: 1A, 1B, 1C, 1D and 2. If you want to know which Terminal (and stand) to spawn at for your specific airline, please refer to the Ground page: [Ground](hkjk.md#ground)
 	* If you don't know which stand to use, our best recommendation is to spawn on a "J" stand.
 	* We ask any planes operating as Freighters use Apron 2 "F" stands.
@@ -502,7 +502,7 @@ Pilots taking part in events that depart from or arrive to HKJK should make them
 	* **If Radar issues the words "climb now", all SID restrictions may be disregarded. Otherwise, all climb instructions must be treated with regard to the SID restrictions.**
 
 === "Arrival"
-	##### Arrival Briefing
+	### Arrival Briefing
 	### Arrivals and Approaches
 	* As your flight is approaching HKJK, please make yourself familiar with the arrival and approach procedures for Nairobi.
 	* When Runway 06 is in use, all pilots are to expect the ILS. Otherwise, if Runway 24 is in use, all pilots are to expect an RNP approach.
