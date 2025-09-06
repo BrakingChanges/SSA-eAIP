@@ -185,6 +185,84 @@ Initial Climbs at Nairobi aren't based off the SID themselves, but rather the di
 
 
 
+## Ground
+
+
+#### Latest Updates
+
+#### Taxi Procedures
+At Nairobi, Apron 1 operates with a one way system in and out, depending on Runway flow.
+
+Runway 06:
+Taxi out via J, K
+Taxi in via H, M
+
+Runway 24:
+Taxi out via H, M
+Taxi in via J, K
+
+### Phraseology
+
+```
+
+CALLSIGN, push-back approved, facing DIRECTION.
+
+```
+
+| Apron | Type | Facing | Remarks |
+| --- | --- | --- | --- |
+| Apron 1 | Main Terminal / Remote | North or North-West or South or South-East | If Medium-Haul, taxiways K and M may be used. |
+| Apron 2 | Cargo | North-East |  |
+| Apron 3 | General Aviation | South-East | Only start-up will be needed in most cases. |
+
+### Apron 1 Stand Allocation
+* Pilots may request to choose a different stand at their discretion.
+* If preferred stand is occupied, then redirect aircraft to a stand in the same terminal or the J parking stands.
+
+| Terminal | Stands |
+| --- | --- |
+| 1A | 15-21 |
+| 1B | 14-9 |
+| 1C | 8-4 |
+| 1D | 2A-C & 3A-C |
+| 2 | 22A-F |
+
+| Terminal | ICAO | Airline | Preferred Stand | Remarks |
+| --- | --- | --- | --- | --- |
+| 1A | ABY | Air Arabia | 19 |  |
+| 1A | AFR | Air France | 18 |  |
+| 1A | CSN | China Southern | ANY |  |
+| 1A | KQA | Kenya Airways | ANY | International Only / Can also use Terminals 1B to 1C. |
+| 1A | KLM | KLM Royal Dutch Airlines | ANY |  |
+| 1A | SVA | Saudia | 18 |  |
+| 1A | N/A | Other SkyTeam Airlines | ANY |  |
+| 1B | AIC | Air India | 11 |  |
+| 1B | ATC | Air Tanzania | ANY |  |
+| 1B | BAW | British Airways | 14 |  |
+| 1B | ETH | Ethopian Airlines | 12 |  |
+| 1B | QTR | Qatar Airways | 10 |  |
+| 1B | SAA | South African Airways | ANY |  |
+| 1B | SWR | Swiss International Air Lines | ANY |  |
+| 1B | UGD | Uganda Airlines | 11 |  |
+| 1B | N/A | Other Oneworld Airlines | ANY |  |
+| 1C | MSR | EgyptAir | 7 |  |
+| 1C | UAE | Emirates | 7 |  |
+| 1C | ETD | Etihad Airways | ANY |  |
+| 1C | DLH | Lufthansa | 5 |  |
+| 1C | MWI | Malawian Airlines | 4 |  |
+| 1C | RWD | RwandAir | ANY |  |
+| 1C | THY | Turkish Airlines | 8 |  |
+| 1C | N/A | Other Star Alliance Airlines | ANY |  |
+| 1D | JMA | Jambojet | ANY |  |
+| 1D | KQA | Kenya Airways | ANY | Domestic Only |
+| 2 | AXK | African Express Airways | ANY |  |
+| 2 | DAO | Daallo Airlines | ANY |  |
+| 2 | FFV | Fly540 | ANY |  |
+| 2 | JBW | Jubba Airways | ANY |  |
+| 2 | PRF | Precision Air | ANY |  |
+
+
+
 ## Approach
 
 
@@ -315,57 +393,12 @@ Initial Climbs at Nairobi aren't based off the SID themselves, but rather the di
 
 
 
-## Briefing
+## Coordination
 
 
-*Pilots taking part in events that depart from or arrive to HKJK should make themselves familiar with this briefing page as well as with all existing charts.*
-
-### General Notes
-* Runway 06 is our preferred departing and arrival runway, up to a tailwind component of 10-15 knots.
-* A one-way system operates throughout Apron 1, listed below:
-* **06: Taxi out via J or K. Taxi in via M or H**
-* **24: Taxi out via M or H, taxi in via J or K**
-
-##### Departure Briefing
-* Nairobi has 5 terminals, Terminals: 1A, 1B, 1C, 1D and 2. If you want to know which Terminal (and stand) to spawn at for your specific airline, please refer to the Ground page: [Ground](https://eaip.vatssa.com/hkjk-ground)
-* If you don't know which stand to use, our best recommendation is to spawn on a "J" stand.
-* We ask any planes operating as Freighters use Apron 2 "F" stands.
-* **If for any reason, there is a lack of room on these stands, we ask pilots use Apron 3, however this is unlikely to occur.**
-* On initial contact to Nairobi Apron (HKJK_GND), pilots are to report callsign and stand number.
-* **Please note, there are many different SIDs, some which lead to the same place. We only use some of these SIDs however. For your own planning reference, please refer to our Delivery Page for what SID to expect. This will also include your initial climbs (at the very bottom). [Delivery Page](https://eaip.vatssa.com/hkjk-delivery)**
-* **Initial Climb is not assigned on a per SID basis. This will depend on your direction and type of flight. You can also find what initial climb to expect at the very bottom of the Delivery Page.**
-* **During clearance, please make sure to readback your SID and transition (if applicable), initial climb and the squawk.**
-* Once you have clearance, wait until 10-15 minutes before your CTOT, before calling for push and start.
-
-### Pushback and Taxi
-* Expect a few minutes delay with push during busy times, as there will be planes moving in all directions across the apron, so do be patient when asking for push.
-* **Pilots should only ask for push once the pushback tug is fully connected to avoid delays.**
-* Once ready for taxi, pilots should expect to be routed out via the standard Apron exits depending on the Runway configuration (see General Notes). Comply with any hold short instructions and do not proceed further until given further taxi by Apron or Tower.
-* **On Taxiway G, there are two taxi lines which act as a shortcut onto K for Runway 06. We ask pilots don't use this, unless otherwise instructed to by ATC. If you think you will have a problem with turning from G to K on the normal taxiway, please do ask Tower first before taking the shortcut, so you can be reasonably sequenced in.**
-
-### Takeoff & Departure
-* Pilots are expected to be fully configured and ready for departure before reaching the holding point for Runway 06. If you aren't ready, please do advise ATC at the earliest.
-* When given take off clearance, pilots should spend as little time on the runway as is needed.
-* Once in the air, pilots will be handed to Nairobi Radar (122.300) or Nairobi Control (121.300) for departure. On departure, comply with all SID restrictions, and do not climb further until instructed.
-* **If Radar issues the words "climb now", all SID restrictions may be disregarded. Otherwise, all climb instructions must be treated with regard to the SID restrictions.**
-
-##### Arrival Briefing
-### Arrivals and Approaches
-* As your flight is approaching HKJK, please make yourself familiar with the arrival and approach procedures for Nairobi.
-* When Runway 06 is in use, all pilots are to expect the ILS. Otherwise, if Runway 24 is in use, all pilots are to expect an RNP approach.
-* On initial contact with Nairobi or Dar-es-Salaam, you will be told the landing runway and the arrival.
-* **Please note, most STARs have two sets of arrivals.**
-* **For 06, these are known as the "Alpha", e.g. NAKAT4A, or the "Papa", e.g. NAKAT2P. For planning purposes, all pilots are expected to program in a "Papa" arrival where applicable, with a JOMOK ILS transition (chart 11-3 on Navigraph), unless otherwise instructed by ATC. The "Alpha" arrivals may be used for sequencing or during busier times. Listen out to what ATC gives you!**
-* **For 24, these are either the "Romeo", e.g. KIMET1R, or the "Delta", e.g. KIMET2D, or the "Charlie", e.g. EVOGO2C. For planning purposes, all pilots are expected to program in the "Romeo" arrival where applicable, with the correct RNP transition, unless otherwise instructed by ATC.**
-* Due to the high volume of traffic expected, and Nairobi being a single runway airport, pilots should expect to hold. For more information regarding published holds, please refer to here: [Nairobi Holdings (Approach Page)](https://eaip.vatssa.com/hkjk-approach)
-* **When close to the ILS 06, pilots will be cleared via the specific JOMOK2x transition. At this point, descend to the platform altitude (via the transition, 7100ft) to establish. However, please note ATC may deviate from the transition via radar vectors, so comply with the vectors and descent altitudes at all times!**
-* During a go around, TWR will issue pilots the instruction on what to do, either "follow missed approach procedure", or "maintain runway heading". Listen out carefully!**
-
-### Landing
-* When landings, pilots are advised to vacate as quickly as possible to allow for smooth operation. For 06, if a medium aircraft, plan to vacate via E or L. If a heavy aircraft, plan to vacate via L.
-* If a pilot vacates via L, continue taxi via G and await further instructions.
-* If a pilot vacates via any other taxiway, hold short of G and await further instructions.
-* Pilots will be given taxi by Tower to the start of the Apron, before being handed off to Apron for stand.
+#### HKJK & HKNW
+* HKJK Controllers, particularly Tower and Approach, should be mindful of simultaneous operations at HKJK and [HKNW](HKNW). In most circumstances, most aircraft taking off from HKNW will be taking off to the south, which can cause a conflict for inbound traffic landing on 06. 
+* In the event of HKNW traffic, releases from HKJK should be coordinated with Approach, if online, however in most circumstances, HKJK traffic will be given priority.
 
 
 
@@ -418,101 +451,6 @@ The complete set of HKJK Official Charts can be found [here](https://eaip.kcaa.o
 
 
 
-## Coordination
-
-
-#### HKJK & HKNW
-* HKJK Controllers, particularly Tower and Approach, should be mindful of simultaneous operations at HKJK and [HKNW](HKNW). In most circumstances, most aircraft taking off from HKNW will be taking off to the south, which can cause a conflict for inbound traffic landing on 06. 
-* In the event of HKNW traffic, releases from HKJK should be coordinated with Approach, if online, however in most circumstances, HKJK traffic will be given priority.
-
-
-
-## Ground
-
-
-#### Latest Updates
-
-#### Taxi Procedures
-At Nairobi, Apron 1 operates with a one way system in and out, depending on Runway flow.
-
-Runway 06:
-Taxi out via J, K
-Taxi in via H, M
-
-Runway 24:
-Taxi out via H, M
-Taxi in via J, K
-
-### Phraseology
-
-```
-
-CALLSIGN, push-back approved, facing DIRECTION.
-
-```
-
-| Apron | Type | Facing | Remarks |
-| --- | --- | --- | --- |
-| Apron 1 | Main Terminal / Remote | North or North-West or South or South-East | If Medium-Haul, taxiways K and M may be used. |
-| Apron 2 | Cargo | North-East |  |
-| Apron 3 | General Aviation | South-East | Only start-up will be needed in most cases. |
-
-### Apron 1 Stand Allocation
-* Pilots may request to choose a different stand at their discretion.
-* If preferred stand is occupied, then redirect aircraft to a stand in the same terminal or the J parking stands.
-
-| Terminal | Stands |
-| --- | --- |
-| 1A | 15-21 |
-| 1B | 14-9 |
-| 1C | 8-4 |
-| 1D | 2A-C & 3A-C |
-| 2 | 22A-F |
-
-| Terminal | ICAO | Airline | Preferred Stand | Remarks |
-| --- | --- | --- | --- | --- |
-| 1A | ABY | Air Arabia | 19 |  |
-| 1A | AFR | Air France | 18 |  |
-| 1A | CSN | China Southern | ANY |  |
-| 1A | KQA | Kenya Airways | ANY | International Only / Can also use Terminals 1B to 1C. |
-| 1A | KLM | KLM Royal Dutch Airlines | ANY |  |
-| 1A | SVA | Saudia | 18 |  |
-| 1A | N/A | Other SkyTeam Airlines | ANY |  |
-| 1B | AIC | Air India | 11 |  |
-| 1B | ATC | Air Tanzania | ANY |  |
-| 1B | BAW | British Airways | 14 |  |
-| 1B | ETH | Ethopian Airlines | 12 |  |
-| 1B | QTR | Qatar Airways | 10 |  |
-| 1B | SAA | South African Airways | ANY |  |
-| 1B | SWR | Swiss International Air Lines | ANY |  |
-| 1B | UGD | Uganda Airlines | 11 |  |
-| 1B | N/A | Other Oneworld Airlines | ANY |  |
-| 1C | MSR | EgyptAir | 7 |  |
-| 1C | UAE | Emirates | 7 |  |
-| 1C | ETD | Etihad Airways | ANY |  |
-| 1C | DLH | Lufthansa | 5 |  |
-| 1C | MWI | Malawian Airlines | 4 |  |
-| 1C | RWD | RwandAir | ANY |  |
-| 1C | THY | Turkish Airlines | 8 |  |
-| 1C | N/A | Other Star Alliance Airlines | ANY |  |
-| 1D | JMA | Jambojet | ANY |  |
-| 1D | KQA | Kenya Airways | ANY | Domestic Only |
-| 2 | AXK | African Express Airways | ANY |  |
-| 2 | DAO | Daallo Airlines | ANY |  |
-| 2 | FFV | Fly540 | ANY |  |
-| 2 | JBW | Jubba Airways | ANY |  |
-| 2 | PRF | Precision Air | ANY |  |
-
-
-
-## Home
-
-
-![About,delivery|Delivery,ground|Ground,tower|Tower,departure|Departure,approach|Approach,coordination|Coordination,charts|Charts,scenery|Scenery,briefing|Briefing](tabembed>about)
-
----
-
-
 ## Scenery
 
 
@@ -526,83 +464,57 @@ CALLSIGN, push-back approved, facing DIRECTION.
 
 
 
-## Tower
+## Briefing
 
 
-#### Runway Selection
-* Runway 06 is the preferred active runway, up to 10 kts of tailwind. 
+*Pilots taking part in events that depart from or arrive to HKJK should make themselves familiar with this briefing page as well as with all existing charts.*
 
-#### Runway Change Operations
-* Runway changes must be coordinate with existing DEL, GND, TWR, DEP and APP controllers.
-* If possible, hold aircraft on stand before a runway change operation.
-* If an aircraft is already taxying on Twy G, offer the pilot the option to use the existing active Rwy or to enter the runway for taxiway direction change.
-* If an aircraft as already passed an approach IAF fix, an APP or TWR controller should advise the pilot of the possibility of a runway change prior to the aircraft being on the final approach segment.
+### General Notes
+* Runway 06 is our preferred departing and arrival runway, up to a tailwind component of 10-15 knots.
+* A one-way system operates throughout Apron 1, listed below:
+* **06: Taxi out via J or K. Taxi in via M or H**
+* **24: Taxi out via M or H, taxi in via J or K**
 
-#### Wake Separation
+##### Departure Briefing
+* Nairobi has 5 terminals, Terminals: 1A, 1B, 1C, 1D and 2. If you want to know which Terminal (and stand) to spawn at for your specific airline, please refer to the Ground page: [Ground](https://eaip.vatssa.com/hkjk-ground)
+* If you don't know which stand to use, our best recommendation is to spawn on a "J" stand.
+* We ask any planes operating as Freighters use Apron 2 "F" stands.
+* **If for any reason, there is a lack of room on these stands, we ask pilots use Apron 3, however this is unlikely to occur.**
+* On initial contact to Nairobi Apron (HKJK_GND), pilots are to report callsign and stand number.
+* **Please note, there are many different SIDs, some which lead to the same place. We only use some of these SIDs however. For your own planning reference, please refer to our Delivery Page for what SID to expect. This will also include your initial climbs (at the very bottom). [Delivery Page](https://eaip.vatssa.com/hkjk-delivery)**
+* **Initial Climb is not assigned on a per SID basis. This will depend on your direction and type of flight. You can also find what initial climb to expect at the very bottom of the Delivery Page.**
+* **During clearance, please make sure to readback your SID and transition (if applicable), initial climb and the squawk.**
+* Once you have clearance, wait until 10-15 minutes before your CTOT, before calling for push and start.
 
-### Arrivals (nm)
+### Pushback and Taxi
+* Expect a few minutes delay with push during busy times, as there will be planes moving in all directions across the apron, so do be patient when asking for push.
+* **Pilots should only ask for push once the pushback tug is fully connected to avoid delays.**
+* Once ready for taxi, pilots should expect to be routed out via the standard Apron exits depending on the Runway configuration (see General Notes). Comply with any hold short instructions and do not proceed further until given further taxi by Apron or Tower.
+* **On Taxiway G, there are two taxi lines which act as a shortcut onto K for Runway 06. We ask pilots don't use this, unless otherwise instructed to by ATC. If you think you will have a problem with turning from G to K on the normal taxiway, please do ask Tower first before taking the shortcut, so you can be reasonably sequenced in.**
 
-| Lead | J | H | M | L |
-| --- | --- | --- | --- | --- |
-| J |  |  |  |  |
-| H | 6 | 4 |  |  |
-| M | 7 | 5 | 5 |  |
-| L | 8 | 6 | 5 | 5 |
+### Takeoff & Departure
+* Pilots are expected to be fully configured and ready for departure before reaching the holding point for Runway 06. If you aren't ready, please do advise ATC at the earliest.
+* When given take off clearance, pilots should spend as little time on the runway as is needed.
+* Once in the air, pilots will be handed to Nairobi Radar (122.300) or Nairobi Control (121.300) for departure. On departure, comply with all SID restrictions, and do not climb further until instructed.
+* **If Radar issues the words "climb now", all SID restrictions may be disregarded. Otherwise, all climb instructions must be treated with regard to the SID restrictions.**
 
+##### Arrival Briefing
+### Arrivals and Approaches
+* As your flight is approaching HKJK, please make yourself familiar with the arrival and approach procedures for Nairobi.
+* When Runway 06 is in use, all pilots are to expect the ILS. Otherwise, if Runway 24 is in use, all pilots are to expect an RNP approach.
+* On initial contact with Nairobi or Dar-es-Salaam, you will be told the landing runway and the arrival.
+* **Please note, most STARs have two sets of arrivals.**
+* **For 06, these are known as the "Alpha", e.g. NAKAT4A, or the "Papa", e.g. NAKAT2P. For planning purposes, all pilots are expected to program in a "Papa" arrival where applicable, with a JOMOK ILS transition (chart 11-3 on Navigraph), unless otherwise instructed by ATC. The "Alpha" arrivals may be used for sequencing or during busier times. Listen out to what ATC gives you!**
+* **For 24, these are either the "Romeo", e.g. KIMET1R, or the "Delta", e.g. KIMET2D, or the "Charlie", e.g. EVOGO2C. For planning purposes, all pilots are expected to program in the "Romeo" arrival where applicable, with the correct RNP transition, unless otherwise instructed by ATC.**
+* Due to the high volume of traffic expected, and Nairobi being a single runway airport, pilots should expect to hold. For more information regarding published holds, please refer to here: [Nairobi Holdings (Approach Page)](https://eaip.vatssa.com/hkjk-approach)
+* **When close to the ILS 06, pilots will be cleared via the specific JOMOK2x transition. At this point, descend to the platform altitude (via the transition, 7100ft) to establish. However, please note ATC may deviate from the transition via radar vectors, so comply with the vectors and descent altitudes at all times!**
+* During a go around, TWR will issue pilots the instruction on what to do, either "follow missed approach procedure", or "maintain runway heading". Listen out carefully!**
 
-### Departures (min)
-
-| Lead | J | H | M | L |
-| --- | --- | --- | --- | --- |
-| J |  |  |  |  |
-| H | 2 |  |  |  |
-| M | 3 | 2 |  |  |
-| L | 3 | 2 | 2 |  |
-
-#### Missed Approach Procedures
-
-#### HIRO
-* When HIRO Ops are in effect, Tower Controllers will only handover traffic to Ground Controllers after issuing initial taxi instructions to pilots to avoid runway exit congestion.
-* If possible, Tower Controllers should advise pilots on which exit they should expect to vacate.
-
-| Rwy | Exit | Taxi Instructions | Remarks |
-| --- | --- | --- | --- |
-| 06 | B | ``` |  |
-Taxi Right on ALPHA
-``` | GA Aircraft Only |
-|  | C | ``` |
-| --- | --- | --- |
-Taxi Left on ALPHA
-``` | ::: |
-|  | D (High Speed) | ``` |
-| --- | --- | --- |
-Hold Short of RWY06 until advised to cross onto L
-``` | - |
-|  | E | ``` |
-| --- | --- | --- |
-Taxi Right on GOLF
-``` | - |
-|  | F |  |  |
-| --- | --- | --- | --- |
-|  | L |  |  |
-| 24 | A | ``` |  |
-Taxi Right on ALPHA
-``` | GA Aircraft Only |
-|  | B |  |  |
-| --- | --- | --- | --- |
-|  | C | ``` |  |
-Taxi Left on ALPHA
-``` | ::: |
-|  | E | ``` |
-| --- | --- | --- |
-Taxi Right on GOLF
-``` | - |
-|  | F |  |  |
-| --- | --- | --- | --- |
-|  | K | ``` |  |
-Taxi Left/Right on GOLF
-``` | - |
-
+### Landing
+* When landings, pilots are advised to vacate as quickly as possible to allow for smooth operation. For 06, if a medium aircraft, plan to vacate via E or L. If a heavy aircraft, plan to vacate via L.
+* If a pilot vacates via L, continue taxi via G and await further instructions.
+* If a pilot vacates via any other taxiway, hold short of G and await further instructions.
+* Pilots will be given taxi by Tower to the start of the Apron, before being handed off to Apron for stand.
 
 
 

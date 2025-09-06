@@ -130,6 +130,54 @@ Minimum reccommended altitude for access lane is FL28
 
 
 
+## Ground
+
+
+
+#### Push-back Procedures
+
+### Phraseology
+
+```
+
+CALLSIGN, push-back approved, facing DIRECTION.
+
+```
+
+| Apron | Type | Facing | Remarks |  |
+| --- | --- | --- | --- | --- |
+| Terminal | Main Terminal | North | Only start-up will be needed in most cases, but pushback can be arranged if aircraft turn radius deems it neccessary |  |
+| Apron | GA | South-East | North | Only start-up will be needed in most cases, but pushback can be arranged if aircraft turn radius deems it neccessary |
+
+
+### Terminal Stand Allocation
+* There are no stands, so it is purely based on Apron space
+* The terminal apron is used for airline arrivals and departures. Hovewer, it can also be used by GA
+
+### Apron Stand Allocation
+* There are no stands, so it is purely based on Apron space
+* The apron is used for airline arrivals and departures. Hovewer, it can also be used by GA
+
+  
+
+| Terminal | Stands |
+| --- | --- |
+| Terminal |  |
+| Apron |  |
+
+
+| Terminal | ICAO | Airline | Preferred Terminal | Remarks |
+| --- | --- | --- | --- | --- |
+| Terminal | JMA | Jambojet | ANY |  |
+| Terminal | RRV | Mombasa Air Safari | ANY |  |
+| Terminal | XLK | Safarilink | ANY |  |
+| Terminal | SEW | Skyward Express | ANY |  |
+
+
+
+
+
+
 ## Approach
 
 
@@ -205,21 +253,6 @@ The assumed MSA is 2600ft
 
 
 
-## Charts
-
-
-The following charts are sourced from the KCAA public AIP.
-
-| Code | Description | URL | Remarks |
-| --- | --- | --- | --- |
-| ADC | Aerodrome Chart - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKUK/HK-AD%202%20diani%20aredrome%20chart.pdf) |  |
-| VFR | VFR ROUTES: DIANI ACCESS LANES | [https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKUK/HK-AD%202%20VFR%20R_](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKUK/HK-AD%202%20VFR%20R_) |  |
-
-The complete set of HKUK Official Charts can be found [here](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/eAIP/HK-AD%202%20HKUK-en-GB.html).
-
-
-
-
 ## Coordination
 
 
@@ -233,94 +266,17 @@ The complete set of HKUK Official Charts can be found [here](https://eaip.kcaa.o
 
 
 
-## Ground
+## Charts
 
 
+The following charts are sourced from the KCAA public AIP.
 
-#### Push-back Procedures
+| Code | Description | URL | Remarks |
+| --- | --- | --- | --- |
+| ADC | Aerodrome Chart - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKUK/HK-AD%202%20diani%20aredrome%20chart.pdf) |  |
+| VFR | VFR ROUTES: DIANI ACCESS LANES | [https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKUK/HK-AD%202%20VFR%20R_](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKUK/HK-AD%202%20VFR%20R_) |  |
 
-### Phraseology
-
-```
-
-CALLSIGN, push-back approved, facing DIRECTION.
-
-```
-
-| Apron | Type | Facing | Remarks |  |
-| --- | --- | --- | --- | --- |
-| Terminal | Main Terminal | North | Only start-up will be needed in most cases, but pushback can be arranged if aircraft turn radius deems it neccessary |  |
-| Apron | GA | South-East | North | Only start-up will be needed in most cases, but pushback can be arranged if aircraft turn radius deems it neccessary |
-
-
-### Terminal Stand Allocation
-* There are no stands, so it is purely based on Apron space
-* The terminal apron is used for airline arrivals and departures. Hovewer, it can also be used by GA
-
-### Apron Stand Allocation
-* There are no stands, so it is purely based on Apron space
-* The apron is used for airline arrivals and departures. Hovewer, it can also be used by GA
-
-  
-
-| Terminal | Stands |
-| --- | --- |
-| Terminal |  |
-| Apron |  |
-
-
-| Terminal | ICAO | Airline | Preferred Terminal | Remarks |
-| --- | --- | --- | --- | --- |
-| Terminal | JMA | Jambojet | ANY |  |
-| Terminal | RRV | Mombasa Air Safari | ANY |  |
-| Terminal | XLK | Safarilink | ANY |  |
-| Terminal | SEW | Skyward Express | ANY |  |
-
-
-
-
-
-
-## Home
-
-
-![About,delivery|Delivery,ground|Ground,tower|Tower,departure|Departure,approach|Approach,coordination|Coordination,charts|Charts,scenery|Scenery,briefing|Briefing](tabembed>about)
-
----
-
-
-## Tower
-
-
-#### Runway Selection
-* Runway 19 is the preferred active runway, up to 10 kts of tailwind. 
-
-#### Runway Change Operations
-* Runway changes must be coordinate with existing TWR and APP controllers.
-* If possible, hold aircraft on stand before a runway change operation.
-* If an aircraft is already taxing on on of the apron or terminal taxiways, offer the pilot the option to use the existing active Rwy or to enter the runway for taxiway direction change.
-* If an aircraft as already passed an approach IAF(final turn on pattern or right wide base) fix, an APP or TWR controller should advise the pilot of the possibility of a runway change prior to the aircraft being on the final approach segment.
-
-#### Wake Separation
-
-### Arrivals (nm)
-
-| Lead | J | H | M | L |
-| --- | --- | --- | --- | --- |
-| J |  |  |  |  |
-| H | 6 | 4 |  |  |
-| M | 7 | 5 | 5 |  |
-| L | 8 | 6 | 5 | 5 |
-
-
-### Departures (min)
-
-| Lead | J | H | M | L |
-| --- | --- | --- | --- | --- |
-| J |  |  |  |  |
-| H | 2 |  |  |  |
-| M | 3 | 2 |  |  |
-| L | 3 | 2 | 2 |  |
+The complete set of HKUK Official Charts can be found [here](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/eAIP/HK-AD%202%20HKUK-en-GB.html).
 
 
 

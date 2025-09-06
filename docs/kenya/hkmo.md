@@ -158,6 +158,76 @@ Initial Climbs at Mombasa aren't based off the SID themselves, but rather the di
 
 
 
+## Ground
+
+
+
+#### Push-back Procedures
+
+### Phraseology
+
+```
+
+CALLSIGN, push-back approved, facing DIRECTION.
+
+```
+
+| Apron | Type | Facing | Remarks |
+| --- | --- | --- | --- |
+| Terminal 1 | Main Terminal / International | South |  |
+| Terminal 2 | Domestic Terminal | North-East |  |
+| Apron 1 | Domestic | South-East | Only start-up will be needed in most cases on to K (or push on to L) |
+| Apron GA | General Aviation | South-East | Only start-up will be needed in most cases on to J |
+
+### Terminal 1 Stand Allocation
+* Pilots may request to choose a different stand at their discretion.
+* Terminal 1 is strictly for international departures and arrivals.
+
+### Terminal 2 Stand Allocation
+* Terminal 2 is strictly for domestic departures and arrivals
+
+  
+
+| Terminal | Stands |
+| --- | --- |
+| Terminal 1 | 5-3B |
+| Terminal 2 | 1-3A |
+| Apron 1 | 6-9 |
+| Apron GA | 1-14 via J |
+| Apron 2 | Not in use |
+
+| Terminal | ICAO | Airline | Preferred Terminal | Remarks |
+| --- | --- | --- | --- | --- |
+| Terminal | AFR | Air France | 1 |  |
+| Terminal | CSN | China Southern | ANY |  |
+| Terminal | KQA | Kenya Airways | ANY | International Only |
+| Terminal | KLM | KLM Royal Dutch Airlines | ANY |  |
+| Terminal | N/A | Other SkyTeam Airlines | ANY |  |
+| Terminal | ATC | Air Tanzania | ANY |  |
+| Terminal | BAW | British Airways | 3 |  |
+| Terminal | ETH | Ethopian Airlines | 2 |  |
+| Terminal | QTR | Qatar Airways | 1 |  |
+| Terminal | SAA | South African Airways | ANY |  |
+| Terminal | SWR | Swiss International Air Lines | ANY |  |
+| Terminal | UGD | Uganda Airlines | ANY |  |
+| Terminal | N/A | Other Oneworld Airlines | ANY |  |
+| Terminal | UAE | Emirates | ANY |  |
+| Terminal | ETD | Etihad Airways | ANY |  |
+| Terminal | DLH | Lufthansa | ANY |  |
+| Terminal | MWI | Malawian Airlines | ANY |  |
+| Terminal | RWD | RwandAir | ANY |  |
+| Terminal | THY | Turkish Airlines | ANY |  |
+| Terminal | N/A | Other Star Alliance Airlines | ANY |  |
+| Terminal 2 | JMA | Jambojet | ANY |  |
+| Terminal 2 | KQA | Kenya Airways | ANY | Domestic Only |
+| Terminal 2 | AXK | African Express Airways | ANY |  |
+| Terminal 2 | DAO | Daallo Airlines | ANY |  |
+| Terminal 2 | FFV | Fly540 | ANY |  |
+| Terminal 2 | JBW | Jubba Airways | ANY |  |
+| Terminal 2 | PRF | Precision Air | ANY |  |
+
+
+
 ## Approach
 
 
@@ -235,6 +305,56 @@ Initial Climbs at Mombasa aren't based off the SID themselves, but rather the di
 
 
 
+## Coordination
+
+
+#### HKUK & HKMO
+* HKUK & HKMO share the TMA
+* HKMO Approach is to release aircraft to HKUK Tower for sequencing onto straight-in or patterns
+
+#### HKJK & HKNW
+* HKJK Controllers, particularly Tower and Approach, should be mindful of simultaneous operations at HKJK and [HKNW](HKNW). In most circumstances, most aircraft taking off from HKNW will be taking off to the south, which can cause a conflict for inbound traffic landing on 06. 
+* In the event of HKNW traffic, releases from HKJK should be coordinated with Approach, if online, however in most circumstances, HKJK traffic will be given priority.
+
+
+
+## Charts
+
+
+The following charts are sourced from the KCAA public AIP.
+
+| Code | Description | URL | Remarks |
+| --- | --- | --- | --- |
+| ADC | Aerodrome Chart - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/AERODROME%20CHART_-.pdf) |  |
+| ADPC | Aerodrome Parking Chart - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/AERODROME%20PARKING%20CHART_-.pdf) |  |
+| SID | Standard Departure Chart - Instrument (SID) RWY 03 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/HKMO%20SID%20RWY%2003%20ETBAX%201A%20-%20EVIDI%201A%20DEPARTURES_R.pdf) |  |
+| SID | Standard Departure Chart - Instrument (SID) RWY 21 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/HKMO%20SID%20RWY%2021%20IMSIS%201A%20-%20MOKAD%201C%20DEPARTURES_R.pdf) |  |
+| STAR | RNAV (GNSS) Standard Arrival Chart - Instrument (STAR) RWY 03 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/STAR_RNAV%20GNSS,AVUDU%202B,%20MOBAT%202B,%20MOKAD%202B,%20UVUKO%202B....ARRIVALS,RWY%2003_R_.pdf) |  |
+| STAR | RNAV (GNSS) Standard Arrival Chart - Instrument (STAR) RWY 21 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/MIDNI_2A,AVUDU%202A....IBNOK%202A%20ARRIVALS%20HKMO%20RWY%2021_---.pdf) |  |
+| IAC | Instrument Approach Chart ILS RWY 21 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/HKMO%20ILS%20RWY%2021_R.pdf) |  |
+| IAC | Instrument Approach Chart DVOR DME RWY 03 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/HKMO__DVOR_DME%2003_R.pdf) |  |
+| IAC | Instrument Approach Chart DVOR DME RWY 21 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/HKMO__DVOR_DME%2021_R.pdf) |  |
+| IAC | Instrument Approach Chart RNP RWY 03 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/IAP_RNP%20HKMO%20RWY%2003_R.pdf) |  |
+| IAC | Instrument Approach Chart RNP RWY 21 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/IAP_RNP%20HKMO%20RWY%2021_---.pdf) |  |
+| IAC | Instrument Approach Chart RNAV Transition to ILS RWY 21 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/HKMO%20RNAV%20TRANSITION%20TO%20ILS%20RWY%2021_(R).pdf) |  |
+| GEN | HKMO Terms and Conditions | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/HKMO%20TERMS%20AND%20CONDITIONS_(R).pdf) |  |
+| AOC | Aerodrome Obstacle Chart — ICAO Type A (Operating limitations) | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/AERODROME%20OBSTACLE%20CHART%20TYPE%20A_R.pdf) |  |
+
+The complete set of HKMO Official Charts can be found [here](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/eAIP/HK-AD%202%20HKMO-en-GB.html).
+
+
+
+## Scenery
+
+
+| Platform | Type | Developer | Link | Remarks |
+| --- | --- | --- | --- | --- |
+| XP11 | Freeware | Deno-380 | [Scenery](https://forums.x-plane.org/index.php?/files/file/62519-hkmo-moi-international-airport-mombasa-mba/) |  |
+| P3D | Freeware | FSXcenery | [Scenery](https://secure.simmarket.com/fsxcenery-hkmo-moi-international-airport-mombasa-fsx-p3d.phtml) |  |
+| MSFS | Payware | FSXcenery | [Scenery](https://secure.simmarket.com/fsxcenery-hkmo-moi-international-airport-mombasa-msfs.phtml ) |  |
+
+
+
 ## Briefing
 
 
@@ -278,208 +398,6 @@ Initial Climbs at Mombasa aren't based off the SID themselves, but rather the di
 * If a pilot vacates via C, hold A and await further instructions.
 * If a pilot vacates via any other taxiway, hold short of A and await further instructions.
 * Pilots will be given taxi by Tower to the start of the Apron, before being handed off to Apron for stand.
-
-
-
-
-## Charts
-
-
-The following charts are sourced from the KCAA public AIP.
-
-| Code | Description | URL | Remarks |
-| --- | --- | --- | --- |
-| ADC | Aerodrome Chart - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/AERODROME%20CHART_-.pdf) |  |
-| ADPC | Aerodrome Parking Chart - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/AERODROME%20PARKING%20CHART_-.pdf) |  |
-| SID | Standard Departure Chart - Instrument (SID) RWY 03 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/HKMO%20SID%20RWY%2003%20ETBAX%201A%20-%20EVIDI%201A%20DEPARTURES_R.pdf) |  |
-| SID | Standard Departure Chart - Instrument (SID) RWY 21 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/HKMO%20SID%20RWY%2021%20IMSIS%201A%20-%20MOKAD%201C%20DEPARTURES_R.pdf) |  |
-| STAR | RNAV (GNSS) Standard Arrival Chart - Instrument (STAR) RWY 03 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/STAR_RNAV%20GNSS,AVUDU%202B,%20MOBAT%202B,%20MOKAD%202B,%20UVUKO%202B....ARRIVALS,RWY%2003_R_.pdf) |  |
-| STAR | RNAV (GNSS) Standard Arrival Chart - Instrument (STAR) RWY 21 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/MIDNI_2A,AVUDU%202A....IBNOK%202A%20ARRIVALS%20HKMO%20RWY%2021_---.pdf) |  |
-| IAC | Instrument Approach Chart ILS RWY 21 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/HKMO%20ILS%20RWY%2021_R.pdf) |  |
-| IAC | Instrument Approach Chart DVOR DME RWY 03 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/HKMO__DVOR_DME%2003_R.pdf) |  |
-| IAC | Instrument Approach Chart DVOR DME RWY 21 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/HKMO__DVOR_DME%2021_R.pdf) |  |
-| IAC | Instrument Approach Chart RNP RWY 03 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/IAP_RNP%20HKMO%20RWY%2003_R.pdf) |  |
-| IAC | Instrument Approach Chart RNP RWY 21 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/IAP_RNP%20HKMO%20RWY%2021_---.pdf) |  |
-| IAC | Instrument Approach Chart RNAV Transition to ILS RWY 21 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/HKMO%20RNAV%20TRANSITION%20TO%20ILS%20RWY%2021_(R).pdf) |  |
-| GEN | HKMO Terms and Conditions | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/HKMO%20TERMS%20AND%20CONDITIONS_(R).pdf) |  |
-| AOC | Aerodrome Obstacle Chart — ICAO Type A (Operating limitations) | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKMO/AERODROME%20OBSTACLE%20CHART%20TYPE%20A_R.pdf) |  |
-
-The complete set of HKMO Official Charts can be found [here](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/eAIP/HK-AD%202%20HKMO-en-GB.html).
-
-
-
-## Coordination
-
-
-#### HKUK & HKMO
-* HKUK & HKMO share the TMA
-* HKMO Approach is to release aircraft to HKUK Tower for sequencing onto straight-in or patterns
-
-#### HKJK & HKNW
-* HKJK Controllers, particularly Tower and Approach, should be mindful of simultaneous operations at HKJK and [HKNW](HKNW). In most circumstances, most aircraft taking off from HKNW will be taking off to the south, which can cause a conflict for inbound traffic landing on 06. 
-* In the event of HKNW traffic, releases from HKJK should be coordinated with Approach, if online, however in most circumstances, HKJK traffic will be given priority.
-
-
-
-## Ground
-
-
-
-#### Push-back Procedures
-
-### Phraseology
-
-```
-
-CALLSIGN, push-back approved, facing DIRECTION.
-
-```
-
-| Apron | Type | Facing | Remarks |
-| --- | --- | --- | --- |
-| Terminal 1 | Main Terminal / International | South |  |
-| Terminal 2 | Domestic Terminal | North-East |  |
-| Apron 1 | Domestic | South-East | Only start-up will be needed in most cases on to K (or push on to L) |
-| Apron GA | General Aviation | South-East | Only start-up will be needed in most cases on to J |
-
-### Terminal 1 Stand Allocation
-* Pilots may request to choose a different stand at their discretion.
-* Terminal 1 is strictly for international departures and arrivals.
-
-### Terminal 2 Stand Allocation
-* Terminal 2 is strictly for domestic departures and arrivals
-
-  
-
-| Terminal | Stands |
-| --- | --- |
-| Terminal 1 | 5-3B |
-| Terminal 2 | 1-3A |
-| Apron 1 | 6-9 |
-| Apron GA | 1-14 via J |
-| Apron 2 | Not in use |
-
-| Terminal | ICAO | Airline | Preferred Terminal | Remarks |
-| --- | --- | --- | --- | --- |
-| Terminal | AFR | Air France | 1 |  |
-| Terminal | CSN | China Southern | ANY |  |
-| Terminal | KQA | Kenya Airways | ANY | International Only |
-| Terminal | KLM | KLM Royal Dutch Airlines | ANY |  |
-| Terminal | N/A | Other SkyTeam Airlines | ANY |  |
-| Terminal | ATC | Air Tanzania | ANY |  |
-| Terminal | BAW | British Airways | 3 |  |
-| Terminal | ETH | Ethopian Airlines | 2 |  |
-| Terminal | QTR | Qatar Airways | 1 |  |
-| Terminal | SAA | South African Airways | ANY |  |
-| Terminal | SWR | Swiss International Air Lines | ANY |  |
-| Terminal | UGD | Uganda Airlines | ANY |  |
-| Terminal | N/A | Other Oneworld Airlines | ANY |  |
-| Terminal | UAE | Emirates | ANY |  |
-| Terminal | ETD | Etihad Airways | ANY |  |
-| Terminal | DLH | Lufthansa | ANY |  |
-| Terminal | MWI | Malawian Airlines | ANY |  |
-| Terminal | RWD | RwandAir | ANY |  |
-| Terminal | THY | Turkish Airlines | ANY |  |
-| Terminal | N/A | Other Star Alliance Airlines | ANY |  |
-| Terminal 2 | JMA | Jambojet | ANY |  |
-| Terminal 2 | KQA | Kenya Airways | ANY | Domestic Only |
-| Terminal 2 | AXK | African Express Airways | ANY |  |
-| Terminal 2 | DAO | Daallo Airlines | ANY |  |
-| Terminal 2 | FFV | Fly540 | ANY |  |
-| Terminal 2 | JBW | Jubba Airways | ANY |  |
-| Terminal 2 | PRF | Precision Air | ANY |  |
-
-
-
-## Home
-
-
-![About,delivery|Delivery,ground|Ground,tower|Tower,departure|Departure,approach|Approach,coordination|Coordination,charts|Charts,scenery|Scenery,briefing|Briefing](tabembed>about)
-
----
-
-
-## Scenery
-
-
-| Platform | Type | Developer | Link | Remarks |
-| --- | --- | --- | --- | --- |
-| XP11 | Freeware | Deno-380 | [Scenery](https://forums.x-plane.org/index.php?/files/file/62519-hkmo-moi-international-airport-mombasa-mba/) |  |
-| P3D | Freeware | FSXcenery | [Scenery](https://secure.simmarket.com/fsxcenery-hkmo-moi-international-airport-mombasa-fsx-p3d.phtml) |  |
-| MSFS | Payware | FSXcenery | [Scenery](https://secure.simmarket.com/fsxcenery-hkmo-moi-international-airport-mombasa-msfs.phtml ) |  |
-
-
-
-## Tower
-
-
-#### Runway Selection
-* Runway 21 is the preferred active runway, up to 10 kts of tailwind. 
-
-#### Runway Change Operations
-* Runway changes must be coordinate with existing DEL, GND, TWR, DEP and APP controllers.
-* If possible, hold aircraft on stand before a runway change operation.
-* If an aircraft is already taxing on Twy A, offer the pilot the option to use the existing active Rwy or to enter the runway for taxiway direction change.
-* If an aircraft as already passed an approach IAF fix, an APP or TWR controller should advise the pilot of the possibility of a runway change prior to the aircraft being on the final approach segment.
-
-#### Wake Separation
-
-### Arrivals (nm)
-
-| Lead | J | H | M | L |
-| --- | --- | --- | --- | --- |
-| J |  |  |  |  |
-| H | 6 | 4 |  |  |
-| M | 7 | 5 | 5 |  |
-| L | 8 | 6 | 5 | 5 |
-
-
-### Departures (min)
-
-| Lead | J | H | M | L |
-| --- | --- | --- | --- | --- |
-| J |  |  |  |  |
-| H | 2 |  |  |  |
-| M | 3 | 2 |  |  |
-| L | 3 | 2 | 2 |  |
-
-#### Missed Approach Procedures
-
-#### HIRO
-* When HIRO Ops are in effect, Tower Controllers will only handover traffic to Ground Controllers after issuing initial taxi instructions to pilots to avoid runway exit congestion.
-* If possible, Tower Controllers should advise pilots on which exit they should expect to vacate.
-
-| Rwy | Exit | Taxi Instructions | Remarks |
-| --- | --- | --- | --- |
-| 21 | C | ``` |  |
-Taxi Left on CHARLIE
-``` 
-|  | D | ``` |
-| --- | --- | --- |
-Taxi Left on DELTA
-``` | ::: |
-|  | A (High Speed) | ``` |
-| --- | --- | --- |
-Hold Short of RWY21 until advised to cross onto A
-``` | - |
-|  | F |  |  |
-| --- | --- | --- | --- |
-|  | L |  |  |
-| 03 | D | ``` |  |
-Taxi Right on DELTA
-``` | 
-|  | B |  |  |
-| --- | --- | --- | --- |
-|  | C | ``` |  |
-Taxi Right on CHARLIE
-``` | ::: |
-|  | B | ``` |
-| --- | --- | --- |
-Taxi Right on BRAVO
-``` | - |
-|  | F |  |  |
-| --- | --- | --- | --- |
-
 
 
 

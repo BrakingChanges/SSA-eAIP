@@ -123,6 +123,30 @@ Initial Climbs at Nairobi aren't based off the SID themselves, but rather the di
 
 
 
+## Ground
+
+
+
+### Phraseology
+
+```
+
+CALLSIGN, push-back approved, facing DIRECTION.
+
+```
+
+| Apron | Type | Facing | Remarks |
+| --- | --- | --- | --- |
+| Apron 1 | Main Terminal / Remote | North-west or South-east | Only start-up will be needed in most cases. |
+| Apron 2 | Main Terminal / Remote | East or West | Only start-up will be needed in most cases. |
+| Apron 3 | General Aviation | North-east or South-west | Only start-up will be needed in most cases. |
+| Apron 4 | General Aviation | East or West | Only start-up will be needed in most cases. |
+| Remote E | General Aviation | North-west or South-east | Only start-up will be needed in most cases. |
+| Remote B | General Aviation | East or West | Only start-up will be needed in most cases. |
+
+
+
+
 ## Approach
 
 
@@ -216,6 +240,15 @@ masts
 
 
 
+## Coordination
+
+
+#### HKJK & HKNW
+* HKJK Controllers, particularly Tower and Approach, should be mindful of simultaneous operations at HKJK and [HKNW](HKNW). In most circumstances, most aircraft taking off from HKNW will be taking off to the south, which can cause a conflict for inbound traffic landing on 06. 
+* In the event of HKNW traffic, releases from HKJK should be coordinated with Approach, if online, however in most circumstances, HKJK traffic will be given priority.
+
+
+
 ## Charts
 
 
@@ -230,82 +263,6 @@ The following charts are sourced from the KCAA public AIP.
 
 The complete set of HKNW Official Charts can be found [here](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/eAIP/HK-AD%202%20HKNW-en-GB.html).
 
-
-
-
-## Coordination
-
-
-#### HKJK & HKNW
-* HKJK Controllers, particularly Tower and Approach, should be mindful of simultaneous operations at HKJK and [HKNW](HKNW). In most circumstances, most aircraft taking off from HKNW will be taking off to the south, which can cause a conflict for inbound traffic landing on 06. 
-* In the event of HKNW traffic, releases from HKJK should be coordinated with Approach, if online, however in most circumstances, HKJK traffic will be given priority.
-
-
-
-## Ground
-
-
-
-### Phraseology
-
-```
-
-CALLSIGN, push-back approved, facing DIRECTION.
-
-```
-
-| Apron | Type | Facing | Remarks |
-| --- | --- | --- | --- |
-| Apron 1 | Main Terminal / Remote | North-west or South-east | Only start-up will be needed in most cases. |
-| Apron 2 | Main Terminal / Remote | East or West | Only start-up will be needed in most cases. |
-| Apron 3 | General Aviation | North-east or South-west | Only start-up will be needed in most cases. |
-| Apron 4 | General Aviation | East or West | Only start-up will be needed in most cases. |
-| Remote E | General Aviation | North-west or South-east | Only start-up will be needed in most cases. |
-| Remote B | General Aviation | East or West | Only start-up will be needed in most cases. |
-
-
-
-
-## Home
-
-
-![About,delivery|Delivery,ground|Ground,tower|Tower,departure|Departure,approach|Approach,coordination|Coordination,charts|Charts](tabembed>about)
-
----
-
-
-## Tower
-
-
-#### Runway Selection
-* Runway 07 is the preferred active runway, up to 10 kts of tailwind. 
-
-#### Runway Change Operations
-* Runway changes must be coordinate with existing DEL, GND, TWR, DEP and APP controllers.
-* If possible, hold aircraft on stand before a runway change operation.
-* If an aircraft is already taxying on Twy A, B or C offer the pilot the option to use the existing active Rwy or to enter the runway for taxiway direction change.
-* If an aircraft as already passed an approach IAF fix, an APP or TWR controller should advise the pilot of the possibility of a runway change prior to the aircraft being on the final approach segment.
-
-#### Wake Separation
-
-### Arrivals (nm)
-
-| Lead | J | H | M | L |
-| --- | --- | --- | --- | --- |
-| J |  |  |  |  |
-| H | 6 | 4 |  |  |
-| M | 7 | 5 | 5 |  |
-| L | 8 | 6 | 5 | 5 |
-
-
-### Departures (min)
-
-| Lead | J | H | M | L |
-| --- | --- | --- | --- | --- |
-| J |  |  |  |  |
-| H | 2 |  |  |  |
-| M | 3 | 2 |  |  |
-| L | 3 | 2 | 2 |  |
 
 
 

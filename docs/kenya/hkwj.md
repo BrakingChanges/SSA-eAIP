@@ -105,6 +105,32 @@ Initial Climbs at Wajir aren't based off the SID themselves, but rather the dire
 
 
 
+## Ground
+
+
+#### Latest Updates
+
+#### Taxi Procedures
+
+### Phraseology
+
+```
+
+CALLSIGN, push-back approved, facing DIRECTION.
+
+```
+
+| Apron | Type | Facing | Remarks |
+| --- | --- | --- | --- |
+| Apron 1 | Main Terminal / Remote | North-West or South-East | Only start-up will be needed in most cases. |
+| Apron 2 | Military |  | Only start-up will be needed in most cases. |
+
+### Apron 1 Stand Allocation
+* Pilots may park at any position within the apron as there are no designated stands.
+
+
+
+
 ## Approach
 
 
@@ -170,6 +196,45 @@ Initial Climbs at Wajir aren't based off the SID themselves, but rather the dire
 
 
 
+## Coordination
+
+
+#### HKJK & HKNW
+* HKJK Controllers, particularly Tower and Approach, should be mindful of simultaneous operations at HKJK and [HKNW](HKNW). In most circumstances, most aircraft taking off from HKNW will be taking off to the south, which can cause a conflict for inbound traffic landing on 06. 
+* In the event of HKNW traffic, releases from HKJK should be coordinated with Approach, if online, however in most circumstances, HKJK traffic will be given priority.
+
+
+
+## Charts
+
+
+The following charts are sourced from the KCAA public AIP.
+
+| Code | Description | URL | Remarks |
+| --- | --- | --- | --- |
+| ADC | Aerodrome Chart - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKWJ/HKWJ%20Aerodrome%20Chart_.pdf) |  |
+| STAR | RNAV (GNSS) Standard Arrival Chart - Instrument (STAR) RWY 15 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKWJ/HKWJ%20STAR%20RWY%2015__.pdf) |  |
+| STAR | RNAV (GNSS) Standard Arrival Chart - Instrument (STAR) RWY 33 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKWJ/HKWJ%20STAR%20RWY%2033_.pdf) |  |
+| IAC | Instrument Approach Chart RNP RWY 15 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKWJ/HKWJ%20RNP%20RWY%2015_.pdf) |  |
+| IAC | Instrument Approach Chart DVOR DME RWY 15 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKWJ/HKWJ%20DVOR_DME%2015_.pdf) |  |
+| IAC | Instrument Approach Chart RNP RWY 33 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKWJ/HKWJ%20RNP%20RWY%2033_.pdf) |  |
+| IAC | Instrument Approach Chart DVOR DME RWY 33 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKWJ/HKWJ%20DVOR_DME%2033_.pdf) |  |
+
+The complete set of HKWJ Official Charts can be found [here](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/eAIP/HK-AD%202%20HKWJ-en-GB.html).
+
+
+
+## Scenery
+
+
+| Platform | Type | Developer | Link | Remarks |
+| --- | --- | --- | --- | --- |
+| XP11 | Freeware | Martinde | [Scenery](https://forums.x-plane.org/files/file/28885-hkwj-wadjir-airport) |  |
+
+
+
+
+
 ## Briefing
 
 
@@ -223,118 +288,6 @@ Initial Climbs at Wajir aren't based off the SID themselves, but rather the dire
 * If a pilot vacates via L, continue taxi via G and await further instructions.
 * If a pilot vacates via any other taxiway, hold short of G and await further instructions.
 * Pilots will be given taxi by Tower to the start of the Apron, before being handed off to Apron for stand.
-
-
-
-## Charts
-
-
-The following charts are sourced from the KCAA public AIP.
-
-| Code | Description | URL | Remarks |
-| --- | --- | --- | --- |
-| ADC | Aerodrome Chart - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKWJ/HKWJ%20Aerodrome%20Chart_.pdf) |  |
-| STAR | RNAV (GNSS) Standard Arrival Chart - Instrument (STAR) RWY 15 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKWJ/HKWJ%20STAR%20RWY%2015__.pdf) |  |
-| STAR | RNAV (GNSS) Standard Arrival Chart - Instrument (STAR) RWY 33 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKWJ/HKWJ%20STAR%20RWY%2033_.pdf) |  |
-| IAC | Instrument Approach Chart RNP RWY 15 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKWJ/HKWJ%20RNP%20RWY%2015_.pdf) |  |
-| IAC | Instrument Approach Chart DVOR DME RWY 15 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKWJ/HKWJ%20DVOR_DME%2015_.pdf) |  |
-| IAC | Instrument Approach Chart RNP RWY 33 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKWJ/HKWJ%20RNP%20RWY%2033_.pdf) |  |
-| IAC | Instrument Approach Chart DVOR DME RWY 33 - ICAO | [Chart](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKWJ/HKWJ%20DVOR_DME%2033_.pdf) |  |
-
-The complete set of HKWJ Official Charts can be found [here](https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/eAIP/HK-AD%202%20HKWJ-en-GB.html).
-
-
-
-## Coordination
-
-
-#### HKJK & HKNW
-* HKJK Controllers, particularly Tower and Approach, should be mindful of simultaneous operations at HKJK and [HKNW](HKNW). In most circumstances, most aircraft taking off from HKNW will be taking off to the south, which can cause a conflict for inbound traffic landing on 06. 
-* In the event of HKNW traffic, releases from HKJK should be coordinated with Approach, if online, however in most circumstances, HKJK traffic will be given priority.
-
-
-
-## Ground
-
-
-#### Latest Updates
-
-#### Taxi Procedures
-
-### Phraseology
-
-```
-
-CALLSIGN, push-back approved, facing DIRECTION.
-
-```
-
-| Apron | Type | Facing | Remarks |
-| --- | --- | --- | --- |
-| Apron 1 | Main Terminal / Remote | North-West or South-East | Only start-up will be needed in most cases. |
-| Apron 2 | Military |  | Only start-up will be needed in most cases. |
-
-### Apron 1 Stand Allocation
-* Pilots may park at any position within the apron as there are no designated stands.
-
-
-
-
-## Home
-
-
-![About,delivery|Delivery,ground|Ground,tower|Tower,departure|Departure,approach|Approach,coordination|Coordination,charts|Charts,scenery|Scenery,briefing|Briefing](tabembed>about)
-
----
-
-
-## Scenery
-
-
-| Platform | Type | Developer | Link | Remarks |
-| --- | --- | --- | --- | --- |
-| XP11 | Freeware | Martinde | [Scenery](https://forums.x-plane.org/files/file/28885-hkwj-wadjir-airport) |  |
-
-
-
-
-
-## Tower
-
-
-#### Runway Selection
-* Runway selection is based on current winds. 
-
-#### Runway Change Operations
-* Runway changes must be coordinated with existing DEL, GND, TWR, DEP and APP controllers.
-* If possible, hold aircraft on stand before a runway change operation.
-* If an aircraft is already taxiing on Twy A, offer the pilot the option to use the existing active Rwy or to enter the runway for taxiway direction change.
-* If an aircraft has already passed an approach IAF fix, an APP or TWR controller should advise the pilot of the possibility of a runway change prior to the aircraft being on the final approach segment.
-
-#### Wake Separation
-
-### Arrivals (nm)
-
-| Lead | J | H | M | L |
-| --- | --- | --- | --- | --- |
-| J |  |  |  |  |
-| H | 6 | 4 |  |  |
-| M | 7 | 5 | 5 |  |
-| L | 8 | 6 | 5 | 5 |
-
-
-### Departures (min)
-
-| Lead | J | H | M | L |
-| --- | --- | --- | --- | --- |
-| J |  |  |  |  |
-| H | 2 |  |  |  |
-| M | 3 | 2 |  |  |
-| L | 3 | 2 | 2 |  |
-
-#### Missed Approach Procedures
-
-#### HIRO
 
 
 
