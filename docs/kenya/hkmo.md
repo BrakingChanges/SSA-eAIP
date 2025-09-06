@@ -3,10 +3,15 @@
 
 **Moi International Airport** (IATA: MBA, ICAO: HKMO) is an international airport in Mombasa, the second-largest city in [Kenya](https://eaip2.vatssa.com/kenya/). In 2020, the airport was heralded as the "Best Airport in Africa" (with under 2 million passengers annually) by Airports Council International.
 
-Moi International Airport serves the city of Mombasa and surrounding communities. It lies approximately 425 kilometres, by air, southeast of [Jomo Kenyatta International Airport](Jomo Kenyatta International Airport) ( [HKJK](HKJK) ), the largest and busiest airport in the country. Mombasa Airport is operated by Kenya Airports Authority. It was named after former Kenyan President **Daniel arap Moi** during his tenure.
+Moi International Airport serves the city of Mombasa and surrounding communities. It lies approximately 425 kilometres, by air, southeast of [Jomo Kenyatta International Airport](Jomo Kenyatta International Airport) ( [HKJK](hkjk.md) ), the largest and busiest airport in the country. Mombasa Airport is operated by Kenya Airports Authority. It was named after former Kenyan President **Daniel arap Moi** during his tenure.
 
 
 More information available at [Wikipedia](https://en.wikipedia.org/wiki/Moi_International_Airport).
+
+!!! warning ""
+
+    The information contained in this platform is for flight simulation purposes only and shall not be used, under any circumstances, for real world aviation.
+
 
 #### Aerodrome Data
 
@@ -57,14 +62,6 @@ More information available at [Wikipedia](https://en.wikipedia.org/wiki/Moi_Inte
 | Mombasa CTR | D | HKMO_TWR | GND - 3500 |  |
 | Mombasa TMA | E | HKMO_APP | 1500 - FL145 |  |
 | Nairobi FIR/UIR | A | HKNA_CTR | FL145 - UNL |  |
-
-
-
-
-!!! warning ""
-
-    The information contained in this platform is for flight simulation purposes only and shall not be used, under any circumstances, for real world aviation.
-
 
 ## Delivery
 
@@ -318,7 +315,7 @@ CALLSIGN, push-back approved, facing DIRECTION.
 * HKMO Approach is to release aircraft to HKUK Tower for sequencing onto straight-in or patterns
 
 #### HKJK & HKNW
-* HKJK Controllers, particularly Tower and Approach, should be mindful of simultaneous operations at HKJK and [HKNW](HKNW). In most circumstances, most aircraft taking off from HKNW will be taking off to the south, which can cause a conflict for inbound traffic landing on 06. 
+* HKJK Controllers, particularly Tower and Approach, should be mindful of simultaneous operations at HKJK and [HKNW](hknw.md). In most circumstances, most aircraft taking off from HKNW will be taking off to the south, which can cause a conflict for inbound traffic landing on 06. 
 * In the event of HKNW traffic, releases from HKJK should be coordinated with Approach, if online, however in most circumstances, HKJK traffic will be given priority.
 
 
@@ -364,47 +361,48 @@ The complete set of HKMO Official Charts can be found [here](https://eaip.kcaa.o
 
 
 !!! note ""
-Pilots taking part in events that depart from or arrive to FNLU should make themselves familiar with this briefing page as well as with all existing charts.
-*Pilots taking part in events that depart from or arrive to HKMO should make themselves familiar with this briefing page as well as with all existing charts.*
+Pilots taking part in events that depart from or arrive to HKMO should make themselves familiar with this briefing page as well as with all existing charts.
 
-### General Notes
-* Runway 21 is our preferred departing and arrival runway, up to a tailwind component of 10-15 knots.
+=== "Overview"
+	### General Notes
+	* Runway 21 is our preferred departing and arrival runway, up to a tailwind component of 10-15 knots.
 
+=== "Departure"
+	##### Departure Briefing
+	* Mombasa has 2 terminals, Terminals: 1 and 2. If you want to know which Terminal (and stand) to spawn at for your specific airline, please refer to the Ground page: [Ground](hkmo.md#ground)
+	* If you don't know which stand to use, our best recommendation is to spawn on stands 1-5.
+	* We ask any planes operating as Freighters use Apron 1 stands.
+	* **If for any reason, there is a lack of room on these stands, we ask pilots use Apron 2, however this is unlikely to occur.**
+	* On initial contact to Mombasa Apron (HKMO_GND), pilots are to report callsign and stand number.
+	* **Please note, there are many different SIDs, some which lead to the same place. We only use some of these SIDs however. For your own planning reference, please refer to our Delivery Page for what SID to expect. This will also include your initial climbs (at the very bottom). [Delivery Page](hkmo.md#delivery)**
+	* **Initial Climb is not assigned on a per SID basis. This will depend on your direction and type of flight. You can also find what initial climb to expect at the very bottom of the Delivery Page.**
+	* **During clearance, please make sure to readback your SID and transition (if applicable), initial climb and the squawk.**
+	* Once you have clearance, wait until 10-15 minutes before your CTOT, before calling for push and start.
 
-##### Departure Briefing
-* Mombasa has 2 terminals, Terminals: 1 and 2. If you want to know which Terminal (and stand) to spawn at for your specific airline, please refer to the Ground page: [Ground](https://eaip.vatssa.com/hkmo-ground)
-* If you don't know which stand to use, our best recommendation is to spawn on stands 1-5.
-* We ask any planes operating as Freighters use Apron 1 stands.
-* **If for any reason, there is a lack of room on these stands, we ask pilots use Apron 2, however this is unlikely to occur.**
-* On initial contact to Mombasa Apron (HKMO_GND), pilots are to report callsign and stand number.
-* **Please note, there are many different SIDs, some which lead to the same place. We only use some of these SIDs however. For your own planning reference, please refer to our Delivery Page for what SID to expect. This will also include your initial climbs (at the very bottom). [Delivery Page](https://eaip.vatssa.com/hkmo-delivery)**
-* **Initial Climb is not assigned on a per SID basis. This will depend on your direction and type of flight. You can also find what initial climb to expect at the very bottom of the Delivery Page.**
-* **During clearance, please make sure to readback your SID and transition (if applicable), initial climb and the squawk.**
-* Once you have clearance, wait until 10-15 minutes before your CTOT, before calling for push and start.
+	### Pushback and Taxi
+	* Expect a few minutes delay with push during busy times, as there will be planes moving in all directions across the apron, so do be patient when asking for push.
+	* **Pilots should only ask for push once the pushback tug is fully connected to avoid delays.**
+	* Once ready for taxi, pilots should expect to be routed out via the standard Apron exits depending on the Runway configuration (see General Notes). Comply with any hold short instructions and do not proceed further until given further taxi by Apron or Tower.
 
-### Pushback and Taxi
-* Expect a few minutes delay with push during busy times, as there will be planes moving in all directions across the apron, so do be patient when asking for push.
-* **Pilots should only ask for push once the pushback tug is fully connected to avoid delays.**
-* Once ready for taxi, pilots should expect to be routed out via the standard Apron exits depending on the Runway configuration (see General Notes). Comply with any hold short instructions and do not proceed further until given further taxi by Apron or Tower.
+	### Takeoff & Departure
+	* Pilots are expected to be fully configured and ready for departure before reaching the holding point for Runway 06. If you aren't ready, please do advise ATC at the earliest.
+	* When given take off clearance, pilots should spend as little time on the runway as is needed.
+	* Once in the air, pilots will be handed to Mombasa Radar (122.700) for departure. On departure, comply with all SID restrictions, and do not climb further until instructed.
+	* **If Radar issues the words "climb now", all SID restrictions may be disregarded. Otherwise, all climb instructions must be treated with regard to the SID restrictions.**
 
-### Takeoff & Departure
-* Pilots are expected to be fully configured and ready for departure before reaching the holding point for Runway 06. If you aren't ready, please do advise ATC at the earliest.
-* When given take off clearance, pilots should spend as little time on the runway as is needed.
-* Once in the air, pilots will be handed to Mombasa Radar (122.700) for departure. On departure, comply with all SID restrictions, and do not climb further until instructed.
-* **If Radar issues the words "climb now", all SID restrictions may be disregarded. Otherwise, all climb instructions must be treated with regard to the SID restrictions.**
+=== "Arrival"
+	##### Arrival Briefing
+	### Arrivals and Approaches
+	* As your flight is approaching HKMO, please make yourself familiar with the arrival and approach procedures for Mombasa.
+	* On initial contact with Mombasa or Dar-es-Salaam, you will be told the landing runway and the arrival.
+	* **When close to the RNAV 21, pilots will be cleared via the specific transition. At this point, descend to the platform altitude (via the transition) to establish. However, please note ATC may deviate from the transition via radar vectors, so comply with the vectors and descent altitudes at all times!**
+	* During a go around, TWR will issue pilots the instruction on what to do, either "follow missed approach procedure", or "maintain runway heading". **Listen out carefully!**
 
-##### Arrival Briefing
-### Arrivals and Approaches
-* As your flight is approaching HKMO, please make yourself familiar with the arrival and approach procedures for Mombasa.
-* On initial contact with Mombasa or Dar-es-Salaam, you will be told the landing runway and the arrival.
-* **When close to the RNAV 21, pilots will be cleared via the specific transition. At this point, descend to the platform altitude (via the transition) to establish. However, please note ATC may deviate from the transition via radar vectors, so comply with the vectors and descent altitudes at all times!**
-* During a go around, TWR will issue pilots the instruction on what to do, either "follow missed approach procedure", or "maintain runway heading". **Listen out carefully!**
-
-### Landing
-* When landings, pilots are advised to vacate as quickly as possible to allow for smooth operation. For 21, if a medium aircraft, plan to vacate via C or D. If a heavy aircraft, plan to vacate via A. When landing runway 03, if a medium aircraft, plan to vacate via C or B. If a heavy aircraft, plan to vacate via A.
-* If a pilot vacates via C, hold A and await further instructions.
-* If a pilot vacates via any other taxiway, hold short of A and await further instructions.
-* Pilots will be given taxi by Tower to the start of the Apron, before being handed off to Apron for stand.
+	### Landing
+	* When landings, pilots are advised to vacate as quickly as possible to allow for smooth operation. For 21, if a medium aircraft, plan to vacate via C or D. If a heavy aircraft, plan to vacate via A. When landing runway 03, if a medium aircraft, plan to vacate via C or B. If a heavy aircraft, plan to vacate via A.
+	* If a pilot vacates via C, hold A and await further instructions.
+	* If a pilot vacates via any other taxiway, hold short of A and await further instructions.
+	* Pilots will be given taxi by Tower to the start of the Apron, before being handed off to Apron for stand.
 
 
 
