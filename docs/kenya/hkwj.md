@@ -16,7 +16,7 @@
 | Transition Altitude | 4000 ft |
 | Transition Level | FL50 |
 | Mag Variation | 1º E |
-| Coordinate | [01°43′48″N 40°05′24″E](https://geohack.toolforge.org/geohack.php?pagename# Wajir_Airport&params01_43_48_N_40_05_24_E_type:airport_region:KE) |
+| Coordinate | [01°43′48″N 40°05′24″E](https://geohack.toolforge.org/geohack.php?pagename#Wajir_Airport&params01_43_48_N_40_05_24_E_type:airport_region:KE) |
 | Site | [http://kaa.go.ke/](http://kaa.go.ke/) |
 
 #### Runways
