@@ -1,19 +1,18 @@
 # Tower
-The responsibility of Tower at King Shaka falls to the dedicated Tower ATS unit, "Nairobi Tower" (HKJK_TWR) on 118.700. TWR will be responsible for the movements on the runway, as well as the responsibility of ensuring safety amongst VFR aircraft operating in the circuit or within the Nairobi CTR Area III from GND - 9000ft MSL.
+The responsibility of Tower at Nairobi. falls to the dedicated Tower ATS unit, "Nairobi Tower" (HKJK_TWR) on 118.700. TWR will be responsible for the movements on the runway, as well as the responsibility of ensuring safety amongst VFR aircraft operating in the circuit or within the Nairobi CTR Area III from GND - 9000ft MSL.
 
 ## Visual Flight Rules (VFR) Aircraft
 
   * There are no published VFR departure or arrival routings in and out of the Nairobi CTR. Traffic should instead be asked to report either leaving or entering the CTR, or via one of the VRPs.
-  * Circuit altitude is 6500ft for propeller aircraft and 7500ft for jet aircraft. Runway 06 (Left Hand), Runway 24 (Right Hand).
-
+  * Circuit altitude is 6500ft for propeller-driven aircraft and 7500ft for turbine aircraft. Runway 06 (Left Hand), Runway 24 (Right Hand).
 
 !!! info "Circuit Clearance"
-    ZSABC, hold position, after departure Runway 06, left hand circuits, not above (6500ft/7500ft), report right downwind Runway 06.
+    5YABC, hold position, after departure Runway 06, left hand circuits, not above (6500ft/7500ft), report right downwind Runway 06.
 
 !!! info "Exit Clearance"
-    ZSABC, hold position, after departure Runway 06, cleared to leave the control zone to the east, not above 9000ft report overhead NDULA marker."
+    5YABC, hold position, after departure Runway 06, cleared to leave the control zone to the east, not above 9000ft report overhead NDULA marker."
 
-// insert VRP map whenever the hell I make one
+[//]: # Insert VRP later over here
 
 ## Wake Seperation
 
@@ -41,9 +40,8 @@ The responsibility of Tower at King Shaka falls to the dedicated Tower ATS unit,
 ## Takeoff Phraseology
 
 !!! info "Takeoff"
-    ZSABC, wind 080 degrees at 9 knots, cleared for takeoff Runway 06.
+    5YABC, wind 080 degrees at 9 knots, cleared for takeoff Runway 06.
 
-## Runway 24 Hotspot
+## Runway 06 Hotspot
 !!! warning
-    During Runway 24 operations, there is an increased chance of conflict with vacating aircraft at G, and taxiing aircraft to the holding point Runway 24.
-    In this case, Tower may issue aircraft instructions to vacate right at the end at Charlie to avoid a potential conflict with prior coordination from Ground.
+    During runway 06, operations, a hotspot exists at the intersection of taxiways G and K, in which ground conflicts may occur with aircraft from opposite directions approaching taxiway K. In this case, coordinate with ground on whether handoffs will be recieved at G and K intersection (_reccommended for high traffic volume_) or closer to the holding point or in the holding bay (_low traffic_)
