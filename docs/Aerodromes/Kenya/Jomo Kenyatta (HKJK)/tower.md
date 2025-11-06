@@ -12,6 +12,9 @@ The responsibility of Tower at Nairobi. falls to the dedicated Tower ATS unit, "
 !!! info "Exit Clearance"
     5YABC, hold position, after departure Runway 06, cleared to leave the control zone to the east, not above 9000ft report overhead NDULA marker."
 
+!!!warning "Circuit Width"
+    The distance from the downwind leg of the circuit to thr runway at any point should not be less than 1.5 NM in order to avoid overflying the fuel tanks.
+
 [//]: # Insert VRP later over here
 
 ## Wake Seperation

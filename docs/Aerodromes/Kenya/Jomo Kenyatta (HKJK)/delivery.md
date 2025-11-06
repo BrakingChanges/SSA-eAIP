@@ -93,8 +93,6 @@ Due to the many procedures at HKJK, only the following SIDs should be used durin
 
 ## Phraseology
 
-**The passing altitude to be issued in clearances is 2500ft.**
-
 SID + Transition
 !!! info "Delivery Phraseology"
     "(callsign), cleared to (destination), via the (SID) (transition) transition, climb initially (FL), squawk (squawk)."

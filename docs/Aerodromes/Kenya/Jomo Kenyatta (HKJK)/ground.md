@@ -43,6 +43,55 @@ On the E190 and smaller code C and below aircraft, the wingspan clearance is eno
 | 2A, 2B, 2C, 3A, 3B, 3C (E190 or smaller configuration)  | Restricted to Code C, [_see note above_](ground.md#standard-configurations) |
 | 2A, 2C, 3A, 3C (737-800 configuration)  | Restricted to Code C,  [_see note above_](ground.md#standard-configurations) |
 
+### Prefferential Stand Allocation
+* Pilots may request to choose a different stand at their discretion.
+* If preferred stand is occupied, then redirect aircraft to a stand in the same terminal or the J parking stands.
+
+**Apron 1**
+
+| Terminal | Stands |
+| :---: | :---: |
+| 1A | 15-21 |
+| 1B | 14-9 |
+| 1C | 8-4 |
+| 1D | 2A-C & 3A-C |
+| 2 | 22A-F |
+
+| Terminal | ICAO | Airline | Preferred Stand | Remarks |
+| :---: | :---: | :---: | :---: | :---: |
+| 1A | ABY | Air Arabia | 19 |  |
+| 1A | AFR | Air France | 18 |  |
+| 1A | CSN | China Southern | ANY |  |
+| 1A | KQA | Kenya Airways | ANY | International Only / Can also use Terminals 1B to 1C. |
+| 1A | KLM | KLM Royal Dutch Airlines | ANY |  |
+| 1A | SVA | Saudia | 18 |  |
+| 1A | N/A | Other SkyTeam Airlines | ANY |  |
+| 1B | AIC | Air India | 11 |  |
+| 1B | ATC | Air Tanzania | ANY |  |
+| 1B | BAW | British Airways | 14 |  |
+| 1B | ETH | Ethopian Airlines | 12 |  |
+| 1B | QTR | Qatar Airways | 10 |  |
+| 1B | SAA | South African Airways | ANY |  |
+| 1B | SWR | Swiss International Air Lines | ANY |  |
+| 1B | UGD | Uganda Airlines | 11 |  |
+| 1B | N/A | Other Oneworld Airlines | ANY |  |
+| 1C | MSR | EgyptAir | 7 |  |
+| 1C | UAE | Emirates | 7 |  |
+| 1C | ETD | Etihad Airways | ANY |  |
+| 1C | DLH | Lufthansa | 5 |  |
+| 1C | MWI | Malawian Airlines | 4 |  |
+| 1C | RWD | RwandAir | ANY |  |
+| 1C | THY | Turkish Airlines | 8 |  |
+| 1C | N/A | Other Star Alliance Airlines | ANY |  |
+| 1D | JMA | Jambojet | ANY |  |
+| 1D | KQA | Kenya Airways | ANY | Domestic Only |
+| 2 | AXK | African Express Airways | ANY |  |
+| 2 | DAO | Daallo Airlines | ANY |  |
+| 2 | FFV | Fly540 | ANY |  |
+| 2 | JBW | Jubba Airways | ANY |  |
+| 2 | PRF | Precision Air | ANY |  |
+
+
 
 ## Pushback Procedures
 
