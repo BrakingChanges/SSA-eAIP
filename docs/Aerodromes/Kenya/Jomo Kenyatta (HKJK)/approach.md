@@ -2,9 +2,13 @@
 The responsibility of Approach Control at Nairobi primarily falls with the Approach ATS unit Nairobi Radar (HKJK_APP). Approach is responsible for managing traffic flow of all aircraft and seperation between IFR/IFR traffic and IFR/VFR traffic within the Nairobi TMA 1500ft AGL - FL195.
 
 ## Visual Flight Rules (VFR) Aircraft
-As they are no VFR arrivals into Jomo Kenyatta, approach shall coordinate with the Tower ATS unit at Nairobi Wilson (HKNW_TWR) to use established VRPs to line up an aircraft for final. The Nazarene University VRP is aligned with the extended centerline of Runway 06 so it is particularly useful.
+As they are no VFR arrivals into Jomo Kenyatta, approach shall coordinate with the Tower ATS unit at Nairobi Wilson (HKNW_TWR) to use established VRPs to line up an aircraft for final. The Nazarene University VRP is aligned with the extended centerline of Runway 06 makes it particularly useful.
 
 Otherwise, in operations concerning Runway 24 as the active runway, Approach should coordinate with Tower to enter a right downwind for Runway 24. 
+
+!!!tip "Straight-in Approaches"
+	For straight-in approaches for Runway 06, the aircraft must report visual with the marker beacon 8.25NM from the threshold and at a height no less than 8000ft.
+
 
 !!!info "VFR Flight Plan"
 	All aircraft planning to operate under visual flight rules within the Nairobi TMA, must have filed a VFR flight and must have clearance before entering the Nairobi TMA
@@ -19,7 +23,7 @@ Otherwise, in operations concerning Runway 24 as the active runway, Approach sho
 * Final descent will start at 10NM at 8600ft
 * SRA approach will be terminated at 3NM from touchdown
 * Every nautical mile, a pre-computed check altitude will be given as to maintain a nominal glidepath
-* In absence of ATS instruction, the ILS 06 missed approach procedure is to be conducted.
+* In absence of ATS instruction, the ILS 06 missed approach procedure is to be conducted
 
 **Pre-computed check altitudes**  
 
@@ -33,6 +37,9 @@ Otherwise, in operations concerning Runway 24 as the active runway, Approach sho
 | 5  | 7,010 |
 | 4  | 6,690 |
 | 3  | 6,370 |
+
+### Runway 24 Terrain Clearance
+To provide adequate terrain clearance for departures on Runway 24 who are not on a SID, the aircraft should intercept the 210º radial of the NV VOR and continue climb until FL95 then making a right turn.
 
 ## Approach Data
 This may be useful in sequencing arrivals.
