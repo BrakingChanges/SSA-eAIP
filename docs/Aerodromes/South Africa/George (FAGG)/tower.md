@@ -16,11 +16,21 @@ The responsibility of Tower at George falls to the dedicated Tower ATS unit, "Ge
 
 ### VRP Map
 
-![alt text](VRPs.png)
+- Great Brak River
+- Wolwedans Dam
+- Kaaimans River
+- Garden Route Dam
+- Hartenbos
+- Glentana
+- Herolds Bay
+- Wilderness
+- Fancourt
+- Geelhoutboom
+- Outeniqua Pass
+- Eight Bells
+- Robinsons Pass
 
 ### VFR Runway 11 Departures 
-
-![alt text](11-Deps.png)
 
 | Departure | Report Point | Altitude |
 |--------|--------------|----------|
@@ -34,8 +44,6 @@ The responsibility of Tower at George falls to the dedicated Tower ATS unit, "Ge
     
 ### VFR Runway 29 Departures 
 
-![alt text](29-Deps.png)
-
 | Departure | Report Point | Altitude |
 |--------|--------------|----------|
 | Gletana 29 | Great Brak River | 1500 ft |
@@ -47,8 +55,6 @@ The responsibility of Tower at George falls to the dedicated Tower ATS unit, "Ge
     "ZSABC, hold position, after departure Runway 29, comply with the Gletana 29 departure, not above altitude 1500ft, report overhead Great Brak River."
     
 ### VFR Arrivals 
-
-![alt text](11-and-29-Arr.png)
 
 !!! Warning "VFR Arrivals"
     All VFR arrivals will be required to report over the relevant point. They will then require further instructions to enter the circuit.
